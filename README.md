@@ -14,7 +14,7 @@
     <br><hr>
     <p> Skills: C,C++,Python,HTML,CSS,JavaScript,Python</p>
     <hr>
-    <b>Education:<a href="https://drive.google.com/drive/u/1/home">Results</a></b>
+    <b>Education:<a href="education.html">Results</a></b>
         <br>
         <hr>
         <p>Internships:IBM(Python,Cloud Computing,Big Data Analytic)</p>
